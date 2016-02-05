@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://dronetech.news'
   name: dronetech news
-  favicon: 'http://dronetech.news/wp-content/icons/DT-Favicon_News.ico'
   domain: dronetech.news
+  url: 'http://dronetech.news'
+  favicon: 'http://dronetech.news/wp-content/icons/DT-Favicon_News.ico'
 keywords:
   - dronedeploy
   - drones
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://dronetech.news/dronedeploy-reaches-industry-milestone-with-new-volume-measurement-tool/758/'
 title: DroneDeploy reaches industry milestone with new Volume Measurement tool
-datePublished: '2016-02-05T11:53:59.324Z'
-dateModified: '2016-02-05T11:53:26.398Z'
+datePublished: '2016-02-05T12:01:36.447Z'
+dateModified: '2016-02-05T12:01:32.085Z'
 sourcePath: _posts/2016-02-05-dronedeploy-reaches-industry-milestone-with-new-volume-measu.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
