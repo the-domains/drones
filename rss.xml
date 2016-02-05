@@ -4,21 +4,21 @@
         <description><![CDATA[News and info about commercial drone technology: UAV, SUAS, Dronetech]]></description>
         <link>https://thegrid.ai/drones/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 12:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 12:02:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/drones/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DroneDeploy reaches industry milestone with new Volume Measurement tool]]></title>
+            <description><![CDATA[<article><h1>DroneDeploy reaches industry milestone with new Volume Measurement tool</h1><p>DroneDeploy has announced the release of its new Volume Measurement tool, set to transform the way industries from mining to manufacturing do business with drones. Amazon and Google's future delivery drones have been dominating the headlines, but the bigger untold story is that drones are already revolutionising business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9e4f09b9b46f071cee3b19155828fbbbd84093b.gif"></article>]]></description>
+            <link>http://dronetech.news/dronedeploy-reaches-industry-milestone-with-new-volume-measurement-tool/758/</link>
+            <guid isPermaLink="false">beceaa07-49fc-4b8a-96f6-a7968a4810d2</guid>
+            <pubDate>Fri, 05 Feb 2016 12:01:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top three trends for the commercial drone market in the next four years]]></title>
             <description><![CDATA[<article><h1>Top three trends for the commercial drone market in the next four years</h1><p>Technavio has identified the top three emerging trends predicted to impact the growth of the commercial drone market from 2016 to 2020. The leading global technology research company has conducted a study that highlights the major trends set to take the commercial drone market by storm over the next four years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0843ed903b1acf0baefd9af51b86c51aad861372.jpg"></article>]]></description>
             <link>http://dronetech.news/top-three-trends-for-the-commercial-drone-market-in-the-next-four-years/762/</link>
             <guid isPermaLink="false">715061c2-2004-40c4-b798-6ecb1fa39f0d</guid>
             <pubDate>Fri, 05 Feb 2016 12:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DroneDeploy reaches industry milestone with new Volume Measurement tool]]></title>
-            <description><![CDATA[<article><h1>DroneDeploy reaches industry milestone with new Volume Measurement tool</h1><p>DroneDeploy has announced the release of its new Volume Measurement tool, set to transform the way industries from mining to manufacturing do business with drones. Amazon and Google's future delivery drones have been dominating the headlines, but the bigger untold story is that drones are already revolutionising business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9e4f09b9b46f071cee3b19155828fbbbd84093b.gif"></article>]]></description>
-            <link>http://dronetech.news/dronedeploy-reaches-industry-milestone-with-new-volume-measurement-tool/758/</link>
-            <guid isPermaLink="false">beceaa07-49fc-4b8a-96f6-a7968a4810d2</guid>
-            <pubDate>Fri, 05 Feb 2016 11:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
